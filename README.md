@@ -1,4 +1,4 @@
-# RatesDatabaseDownloader
+# RatesDatabaseUtility
 Program I used with OandaDataFetcher to create flat-file historical quotes from Oanda
 
 # How to use
